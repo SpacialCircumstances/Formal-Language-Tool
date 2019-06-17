@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Launcher",
+            "request": "launch",
+            "mainClass": "space.uber.stk.flt.Launcher",
+            "projectName": "Formal Language Tool"
+        }
+    ]
+}
